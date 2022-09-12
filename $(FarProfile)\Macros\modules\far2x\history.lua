@@ -6,7 +6,7 @@ local is_mdl, inp, own_file_path, own_file_fold, own_file_name, own_file_extn
 	= Xer0X.fnc_file_whoami({ ... })
 if not is_mdl then return end
 
--- #####
+-- ##### ???
 
 local	srl_file_path, far2srl
 do      srl_file_path = own_file_fold.."far2x_serial"..own_file_extn
